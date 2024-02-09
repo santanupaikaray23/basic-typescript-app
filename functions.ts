@@ -19,3 +19,13 @@ let myAddition = function(num1:number, num2:any){
     return num1 + num2
 }
 console.log(myAddition(5,"Lucky"))
+
+function myVoid():void{
+    return 1
+}
+console.log(myVoid())
+
+function myVoid():void{
+    console.log('This is void function')
+}
+console.log(myVoid())
