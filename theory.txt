@@ -1,4 +1,4 @@
-Completed video : 33
+Completed video : 34
 ----------------------
     Typescript
     ---------------
@@ -40,6 +40,10 @@ Completed video : 33
     Encapsulations
     Inheritance
     Access Modifires
+
+Enums
+-----------
+Allows us to define a set of named constants.
 
 
 
